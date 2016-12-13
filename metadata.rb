@@ -1,9 +1,9 @@
 name 'centos_package_cron'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'AzTek Native Ltd.'
+maintainer_email 'peter.green@aztek-native.com'
 license 'all_rights'
-description 'Installs/Configures centos_package_cron'
-long_description 'Installs/Configures centos_package_cron'
+description 'Installs/Configures centos-package-cron RPM package audit tool.'
+long_description 'Installs and configures the centos-package-cron package audit tool: https://github.com/wied03/centos-package-cron'
 version '0.1.0'
 
 # If you upload to Supermarket you should set this so your cookbook
